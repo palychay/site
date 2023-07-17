@@ -1,0 +1,15 @@
+{
+    "name": "mypwa",
+    "description": "praktika",
+    "start_url": "/index.html",
+    "lang": "ru",
+    "display": "standalone",
+    "icons": [
+        {
+            "src":"pop.png",
+            "sizes": "192x192"
+        }
+    ]
+
+
+  }
